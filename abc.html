@@ -1,0 +1,504 @@
+<html>
+ <head>
+  <script type="text/javascript">
+   CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { return CSFindElement(s,0); }
+function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+function CSURLPopupShow(formName, popupName, target) {
+	var form  = CSFindElement(formName);
+	var popup = form.elements[popupName];
+	window.open(popup.options[popup.selectedIndex].value, target);
+	popup.selectedIndex = 0;
+}
+
+
+// function to open new window
+function openWin(URL)
+{
+aWindow=window.open(URL,"photoenlarge","toolbar=no,width=770,height=500,status=no,scrollbars=yes,resize=yes,menubar=no");
+}
+
+function antiSpamMail (name,sld,tld)
+{
+	var at   = "@";
+	window.location.href = "mailto:" + name + at + sld + "." + tld;
+}
+//  End -->
+
+
+// for roll overs===================
+
+var revert = new Array();
+var inames = new Array( 'hvid4');
+
+// Preload
+if (document.images) {
+  var flipped = new Array();
+  for(i=0; i< inames.length; i++) {
+    flipped[i] = new Image();
+    flipped[i].src = "images/"+inames[i]+"2.jpg";
+  }
+}
+
+function over(num) {
+  if(document.images) {
+    revert[num] = document.images[inames[num]].src;
+    document.images[inames[num]].src = flipped[num].src;
+  }
+}
+function out(num) {
+  if(document.images) document.images[inames[num]].src = revert[num];
+}
+  </script>
+  <style type="text/css">
+   body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+	margin: 0; 
+	padding: 2px;
+		font-size: 11px;
+
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+  </style>
+ </head>
+ <body>
+  <div align="center">
+   <table border="0" cellpadding="1" cellspacing="1">
+    <tr>
+     <td bgcolor="#dcdcdc" colspan="5">
+      <table>
+       <form method="POST" name="cs_form_name_type">
+        <tr>
+         <td align="center" bgcolor="#dcdcdc">
+          <select name="cs_popup_name_type" onchange="CSURLPopupShow('cs_form_name_type', 'cs_popup_name_type', '_self');">
+           <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;cat1=245&amp;show=&amp;date=1343347200">
+            Fruit
+           </option>
+           <option selected="" value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;cat1=249&amp;show=&amp;date=1343347200">
+            Vegetables
+           </option>
+          </select>
+         </td>
+         <form method="POST" name="cs_form_name_prod">
+          <td align="center" bgcolor="#dcdcdc">
+           <select name="cs_popup_name_prod" onchange="CSURLPopupShow('cs_form_name_prod', 'cs_popup_name_prod', '_self');">
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=894&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Artichokes
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=896&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Asparagus
+            </option>
+            <option selected="" value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=899&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Aubergines
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=909&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Basil
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=911&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Beans
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1316&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Beansprouts
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=913&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Beetroot
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=928&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Cabbage
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=929&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Calabrese
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=933&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Capsicum
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=938&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Carrots
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=942&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Cauliflower
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=943&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Celeriac
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1282&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Celery
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=952&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Chicory
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=953&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Chillies
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1309&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Chinese leaves
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=954&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Chives
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=971&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Continental Parsley
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=973&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Coriander
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=975&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Courgettes
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=982&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Cucumbers
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=992&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Dill
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1008&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Fennel
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1021&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Garlic
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1024&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Ginger
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1320&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Herbs
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1041&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Horseradish
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1059&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Kohlrabi
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1064&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Leeks
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1066&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Lemon Grass
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1070&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Lettuce
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1092&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Mangetout
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1099&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Marrow
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1109&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Mint
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1115&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Mooli
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1118&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Mushrooms
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1130&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Okra
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1131&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Onions
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1134&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Oregano
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1146&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Parsley
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1147&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Parsnips
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1155&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Peas
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1171&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Potatoes
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1178&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Radish
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1188&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Romanesco
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1193&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Rosemary
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1195&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Sage
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1315&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Salad cress
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1196&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Salad Onions
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1206&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Shallots
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1213&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Spinach
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1214&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Sprouting Broccoli
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1216&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Squash
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1222&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Sugarsnap Peas
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1225&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Swedes
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1227&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Sweet Potatoes
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1228&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Sweetcorn
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1242&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Thyme
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1253&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Turnips
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1267&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Watercress
+            </option>
+            <option value="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;pid=1279&amp;cat1=249&amp;show=&amp;date=1343347200">
+             Yams
+            </option>
+           </select>
+          </td>
+         </form>
+        </tr>
+       </form>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td align="center" bgcolor="#dcdcdc" colspan="5">
+      <span class="mph1">
+       Price of
+      </span>
+      <span class="mpprodh1">
+       Aubergines
+      </span>
+      <span class="mph1">
+       on 27 Jul 2012
+      </span>
+     </td>
+    </tr>
+    <tr>
+     <td align="center" bgcolor="#dcdcdc" colspan="5">
+      <table cellpadding="0" cellspacing="0" width="100%">
+       <tr>
+        <td align="left" width="20%">
+         <a href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;date=1342742400&amp;up_ord=&amp;cid=&amp;cat1=249&amp;pid=899&amp;mid=&amp;vid=4708&amp;show=">
+          Prev week
+         </a>
+        </td>
+        <td align="center" width="60%">
+         <a class="mpopt" href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;date=1343347200&amp;cid=&amp;cat1=249&amp;pid=899&amp;mid=&amp;vid=4708&amp;show=year">
+          Show all 2012
+         </a>
+        </td>
+        <td align="right" width="20%">
+         <a href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=prod&amp;date=1343948400&amp;up_ord=&amp;cid=&amp;cat1=249&amp;pid=899&amp;mid=&amp;vid=4708&amp;show=">
+          Next week
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <form action="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=plot" method="post">
+      <td bgcolor="#dcdcdc">
+      </td>
+      <td bgcolor="#dcdcdc">
+       <b>
+        Variety - Source
+       </b>
+      </td>
+      <td align="right" bgcolor="#dcdcdc">
+       <b>
+        Price
+       </b>
+      </td>
+      <td align="right" bgcolor="#dcdcdc">
+       <b>
+        Lst wk
+       </b>
+      </td>
+      <td align="right" bgcolor="#dcdcdc">
+       <b>
+        Lst Yr
+       </b>
+      </td>
+      <input name="seedarray[0]" type="hidden" value="0"/>
+      <input name="midarray[0]" type="hidden" value="0"/>
+     </form>
+    </tr>
+    <tr>
+     <td bgcolor="#f5f5f5">
+      <input checked="" name="seedarray[1]" type="checkbox" value="1075098"/>
+     </td>
+     <td bgcolor="#f5f5f5">
+      <a class="mpcountry" href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=count&amp;date=1343347200&amp;cid=225&amp;cat1=249&amp;pid=899&amp;show=">
+       Belgium
+      </a>
+      , 5kg
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+      675
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+     </td>
+    </tr>
+    <tr>
+     <td bgcolor="#f5f5f5">
+      <input checked="" name="seedarray[2]" type="checkbox" value="1075223"/>
+     </td>
+     <td bgcolor="#f5f5f5">
+      <a class="mpcountry" href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=count&amp;date=1343347200&amp;cid=311&amp;cat1=249&amp;pid=899&amp;show=">
+       Spain
+      </a>
+      , 5/6kg
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+      300
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+     </td>
+    </tr>
+    <tr>
+     <td bgcolor="#f5f5f5">
+      <input checked="" name="seedarray[3]" type="checkbox" value="1075474"/>
+     </td>
+     <td bgcolor="#f5f5f5">
+      <a class="mpcountry" href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=count&amp;date=1343347200&amp;cid=291&amp;cat1=249&amp;pid=899&amp;show=">
+       The Netherlands
+      </a>
+      , 5kg
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+      650
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+      480
+     </td>
+     <td align="right" bgcolor="#f5f5f5">
+     </td>
+    </tr>
+    <tr>
+     <td align="left" bgcolor="#dcdcdc" colspan="5" valign="top">
+      <table cellpadding="1" width="100%">
+       <tr>
+        <td align="left">
+         <input name="ofn" type="hidden" value="prod"/>
+         <input name="date" type="hidden" value="1343347200"/>
+         <input name="mid" type="hidden" value=""/>
+         <input name="mname" type="hidden" value=""/>
+         <input name="pid" type="hidden" value="899"/>
+         <input name="vid" type="hidden" value="4708"/>
+         <input name="cid" type="hidden" value=""/>
+         <input name="cat1" type="hidden" value="249"/>
+         <input name="pid_n" type="hidden" value="Aubergines"/>
+         <input name="vid_n" type="hidden" value=""/>
+         <input name="cid_n" type="hidden" value=""/>
+         <input name="cat1" type="hidden" value="249"/>
+         <input name="offset" type="hidden" value="0"/>
+         <input name="limit" type="hidden" value="12"/>
+         <input name="show" type="hidden" value=""/>
+         <input name="submit" type="submit" value="Plot graph from selected"/>
+        </td>
+        <td align="right">
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td bgcolor="#f5f5f5" colspan="5">
+      <table width="100%">
+       <tr>
+        <td bgcolor="#f5f5f5">
+         <a href="/freshinfo/embedded_prices.php?s=n&amp;ss=nd&amp;sid=55922&amp;s_txt=Aubergines+Belgium">
+          Belgian apple and pear volume drops
+         </a>
+        </td>
+        <td align="right" bgcolor="#f5f5f5">
+         23rd Jul 2012
+        </td>
+       </tr>
+       <tr>
+        <td bgcolor="#f5f5f5">
+         <a href="/freshinfo/embedded_prices.php?s=n&amp;ss=nd&amp;sid=56020&amp;s_txt=Aubergines+Belgium">
+          Univeg makes changes at Expofrut
+         </a>
+        </td>
+        <td align="right" bgcolor="#f5f5f5">
+         12th Aug 2012
+        </td>
+       </tr>
+       <tr>
+        <td bgcolor="#f5f5f5">
+         <a href="/freshinfo/embedded_prices.php?s=n&amp;ss=nd&amp;sid=55990&amp;s_txt=Aubergines+Belgium">
+          Europe\'s apple and pear crops down
+         </a>
+        </td>
+        <td align="right" bgcolor="#f5f5f5">
+         5th Aug 2012
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td align="center" bgcolor="#dcdcdc" colspan="5" valign="top">
+      <table width="100%">
+       <tr>
+        <td>
+         <a href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=home">
+          Prices home
+         </a>
+        </td>
+        <td align="right">
+         <b>
+          View by:
+         </b>
+         Product |
+         <a href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=count">
+          Country
+         </a>
+         |
+         <a href="/freshinfo/embedded_prices.php?s=r&amp;ss=mp&amp;fn=mark">
+          Market
+         </a>
+        </td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <!-- =========== Body ends =========== -->
+ </body>
+</html>
+

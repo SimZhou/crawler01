@@ -1,0 +1,937 @@
+Country and quantity,Date,Price
+"Belgium, 4kg",6 Apr 2018,525
+"Spain, 5kg",6 Apr 2018,250
+"The Netherlands, 5kg",6 Apr 2018,513
+"Spain, 5kg",30 Mar 2018,425
+"The Netherlands, 5kg",30 Mar 2018,575
+"Spain, 5kg",23 Mar 2018,450
+"The Netherlands, 5kg",23 Mar 2018,618
+"Spain, 5kg",16 Mar 2018,588
+"The Netherlands, 5kg",16 Mar 2018,643
+"Belgium, 4kg",9 Mar 2018,660
+"Spain, 5kg",9 Mar 2018,565
+"The Netherlands, 5kg",9 Mar 2018,700
+"Spain, 5kg",2 Mar 2018,675
+"The Netherlands, 5kg",2 Mar 2018,673
+"Belgium, 4kg",23 Feb 2018,700
+"Spain, 5kg",23 Feb 2018,638
+"The Netherlands, 5kg",23 Feb 2018,750
+"Spain, 5kg",16 Feb 2018,775
+"The Netherlands, 5kg",16 Feb 2018,750
+"Spain, 5kg",9 Feb 2018,705
+"Spain, 5kg",2 Feb 2018,550
+"Spain, 5kg",26 Jan 2018,900
+"Spain, 5kg",19 Jan 2018,775
+"Spain, 5kg",12 Jan 2018,700
+"Spain, 5kg",22 Dec 2017,1010
+"Spain, 5kg",15 Dec 2017,1500
+"Spain, 5kg",8 Dec 2017,800
+"Spain, 5kg",1 Dec 2017,725
+"Spain, 5kg",24 Nov 2017,700
+"Spain, 5kg",17 Nov 2017,700
+"Spain, 5kg",10 Nov 2017,550
+"Spain, 5kg",3 Nov 2017,600
+"The Netherlands, 5kg",3 Nov 2017,600
+"Spain, 5kg",27 Oct 2017,600
+"Spain, 5kg",20 Oct 2017,550
+"The Netherlands, 5kg",20 Oct 2017,630
+"Spain, 5kg",13 Oct 2017,750
+"The Netherlands, 5kg",13 Oct 2017,913
+"Spain, 5kg",6 Oct 2017,800
+"The Netherlands, 5kg",6 Oct 2017,953
+"Spain, 5kg",29 Sep 2017,1100
+"The Netherlands, 5kg",29 Sep 2017,1375
+"Belgium, 4kg",22 Sep 2017,1250
+"The Netherlands, 5kg",22 Sep 2017,1300
+"Belgium, 4kg",15 Sep 2017,1350
+"Spain, 5kg",15 Sep 2017,1100
+"The Netherlands, 5kg",15 Sep 2017,1525
+"Belgium, 4kg",8 Sep 2017,913
+"Italy, 6kg",8 Sep 2017,500
+"Spain, 5kg",8 Sep 2017,750
+"The Netherlands, 5kg",8 Sep 2017,962
+"Belgium, 4kg",1 Sep 2017,815
+"The Netherlands, 5kg",1 Sep 2017,925
+"Belgium, 4kg",25 Aug 2017,888
+"The Netherlands, 5kg",25 Aug 2017,1025
+"The Netherlands, 5kg",18 Aug 2017,979
+"Belgium, 4kg",11 Aug 2017,835
+"The Netherlands, 5kg",11 Aug 2017,850
+"Belgium, 4kg",4 Aug 2017,663
+"The Netherlands, 5kg",4 Aug 2017,720
+"Belgium, 4kg",28 Jul 2017,670
+"The Netherlands, 5kg",28 Jul 2017,675
+"Belgium, 4kg",21 Jul 2017,620
+"The Netherlands, 5kg",21 Jul 2017,713
+"Belgium, 4kg",14 Jul 2017,525
+"The Netherlands, 5kg",14 Jul 2017,650
+"The Netherlands, 5kg",7 Jul 2017,613
+"The Netherlands, 5kg",30 Jun 2017,720
+"Belgium, 4kg",23 Jun 2017,735
+"The Netherlands, 5kg",23 Jun 2017,808
+"The Netherlands, 5kg",16 Jun 2017,700
+"The Netherlands, 5kg",9 Jun 2017,510
+"Belgium, 4kg",2 Jun 2017,605
+"The Netherlands, 5kg",2 Jun 2017,723
+"Belgium, 4kg",26 May 2017,605
+"Spain, 5kg",26 May 2017,300
+"The Netherlands, 5kg",26 May 2017,637
+"Belgium, 4kg",19 May 2017,690
+"The Netherlands, 5kg",19 May 2017,875
+"Spain, 5kg",12 May 2017,625
+"The Netherlands, 5kg",12 May 2017,907
+"Spain, 5kg",5 May 2017,400
+"The Netherlands, 5kg",5 May 2017,550
+"The Netherlands, 5kg",28 Apr 2017,645
+"Spain, 5kg",21 Apr 2017,375
+"The Netherlands, 5kg",21 Apr 2017,505
+"Belgium, 4kg",14 Apr 2017,570
+"Spain, 5kg",14 Apr 2017,488
+"The Netherlands, 5kg",14 Apr 2017,630
+"Belgium, 4kg",7 Apr 2017,560
+"Spain, 5kg",7 Apr 2017,395
+"The Netherlands, 5kg",7 Apr 2017,540
+"Spain, 5kg",31 Mar 2017,600
+"The Netherlands, 5kg",31 Mar 2017,785
+"Spain, 5kg",24 Mar 2017,580
+"The Netherlands, 5kg",24 Mar 2017,630
+"Spain, 5kg",17 Mar 2017,610
+"The Netherlands, 5kg",17 Mar 2017,670
+"Spain, 5kg",10 Mar 2017,519
+"The Netherlands, 5kg",10 Mar 2017,600
+"Spain, 5kg",3 Mar 2017,569
+"The Netherlands, 5kg",3 Mar 2017,600
+"Spain, 5kg",24 Feb 2017,563
+"Spain, 5kg",17 Feb 2017,630
+"The Netherlands, 5kg",17 Feb 2017,700
+"Spain, 5kg",10 Feb 2017,1150
+"Spain, 5kg",3 Feb 2017,2350
+"Spain, 5kg",27 Jan 2017,1950
+"Spain, 5kg",20 Jan 2017,2100
+"Spain, 5kg",13 Jan 2017,1500
+"Spain, 5kg",6 Jan 2017,855
+"Spain, 5kg",23 Dec 2016,1200
+"Spain, 5kg",16 Dec 2016,1425
+"Spain, 5kg",9 Dec 2016,1450
+"Spain, 5kg",2 Dec 2016,1350
+"Spain, 5kg",25 Nov 2016,800
+"Spain, 5kg",18 Nov 2016,790
+"Spain, 5kg",11 Nov 2016,693
+"Spain, 5kg",4 Nov 2016,475
+"Spain, 5kg",28 Oct 2016,450
+"The Netherlands, 5kg",28 Oct 2016,500
+"Spain, 5kg",21 Oct 2016,525
+"The Netherlands, 5kg",21 Oct 2016,625
+"Spain, 5kg",14 Oct 2016,783
+"The Netherlands, 5kg",14 Oct 2016,875
+"Belgium, 5kg",7 Oct 2016,860
+"The Netherlands, 5kg",7 Oct 2016,988
+"The Netherlands, 5kg",30 Sep 2016,862
+"Belgium, 5kg",23 Sep 2016,885
+"The Netherlands, 5kg",23 Sep 2016,982
+"Belgium, 5kg",16 Sep 2016,785
+"The Netherlands, 5kg",16 Sep 2016,860
+"Belgium, 5kg",9 Sep 2016,738
+"Spain, 5kg",9 Sep 2016,550
+"The Netherlands, 5kg",9 Sep 2016,832
+"The Netherlands, 5kg",2 Sep 2016,950
+"Spain, 5kg",26 Aug 2016,550
+"The Netherlands, 5kg",26 Aug 2016,808
+"Peru, 4kg",19 Aug 2016,850
+"The Netherlands, 5kg",19 Aug 2016,680
+"The Netherlands, 5kg",12 Aug 2016,747
+"The Netherlands, 5kg",5 Aug 2016,665
+"Spain, 5kg",29 Jul 2016,350
+"The Netherlands, 5kg",29 Jul 2016,550
+"Belgium, 5kg",22 Jul 2016,500
+"The Netherlands, 5kg",22 Jul 2016,585
+"The Netherlands, 5kg",15 Jul 2016,675
+"Belgium, 5kg",8 Jul 2016,585
+"The Netherlands, 5kg",8 Jul 2016,600
+"Belgium, 5kg",1 Jul 2016,700
+"The Netherlands, 5kg",1 Jul 2016,823
+"Belgium, 5kg",24 Jun 2016,485
+"The Netherlands, 5kg",24 Jun 2016,537
+"The Netherlands, 5kg",17 Jun 2016,562
+"The Netherlands, 5kg",10 Jun 2016,557
+"Spain, 5kg",3 Jun 2016,300
+"The Netherlands, 5kg",3 Jun 2016,500
+"Spain, 5kg",27 May 2016,300
+"The Netherlands, 5kg",27 May 2016,520
+"The Netherlands, 5kg",20 May 2016,513
+"Belgium, 5kg",13 May 2016,495
+"The Netherlands, 5kg",13 May 2016,518
+"Spain, 5kg",6 May 2016,300
+"The Netherlands, 5kg",6 May 2016,450
+"Spain, 5kg",29 Apr 2016,300
+"The Netherlands, 5kg",29 Apr 2016,475
+"Belgium, 5kg",22 Apr 2016,420
+"Spain, 5kg",22 Apr 2016,460
+"The Netherlands, 5kg",22 Apr 2016,513
+"Spain, 5kg",15 Apr 2016,350
+"The Netherlands, 5kg",15 Apr 2016,551
+"Spain, 5kg",8 Apr 2016,483
+"The Netherlands, 5kg",8 Apr 2016,650
+"Spain, 5kg",1 Apr 2016,500
+"The Netherlands, 5kg",1 Apr 2016,617
+"Spain, 5kg",25 Mar 2016,500
+"The Netherlands, 5kg",25 Mar 2016,535
+"Spain, 5kg",18 Mar 2016,500
+"The Netherlands, 5kg",18 Mar 2016,475
+"Spain, 5kg",11 Mar 2016,517
+"The Netherlands, 5kg",11 Mar 2016,550
+"Spain, 5kg",4 Mar 2016,438
+"The Netherlands, 5kg",4 Mar 2016,600
+"Spain, 5kg",26 Feb 2016,417
+"The Netherlands, 5kg",26 Feb 2016,500
+"Spain, 5kg",19 Feb 2016,493
+"The Netherlands, 5kg",19 Feb 2016,480
+"Spain, 5kg",12 Feb 2016,500
+"Spain, 5kg",5 Feb 2016,567
+"Spain, 5kg",29 Jan 2016,508
+"Spain, 5kg",22 Jan 2016,492
+"Spain, 5kg",15 Jan 2016,550
+"Spain, 5kg",8 Jan 2016,550
+"Spain, 5kg",18 Dec 2015,700
+"Spain, 5kg",11 Dec 2015,682
+"Spain, 5kg",4 Dec 2015,533
+"Spain, 5kg",27 Nov 2015,467
+"Spain, 5kg",20 Nov 2015,408
+"Spain, 5kg",13 Nov 2015,560
+"Spain, 5kg",6 Nov 2015,500
+"Spain, 5kg",30 Oct 2015,366
+"Spain, 5kg",23 Oct 2015,338
+"The Netherlands, 5kg",23 Oct 2015,480
+"Spain, 5kg",16 Oct 2015,300
+"The Netherlands, 5kg",16 Oct 2015,487
+"Belgium, 5kg",9 Oct 2015,463
+"Spain, 5kg",9 Oct 2015,583
+"The Netherlands, 5kg",9 Oct 2015,763
+"Belgium, 5kg",2 Oct 2015,650
+"Spain, 5kg",2 Oct 2015,600
+"The Netherlands, 5kg",25 Sep 2015,775
+"Spain, 5kg",18 Sep 2015,775
+"The Netherlands, 5kg",18 Sep 2015,880
+"The Netherlands, 5kg",11 Sep 2015,1231
+"The Netherlands, 5kg",4 Sep 2015,600
+"Belgium, 5kg",28 Aug 2015,840
+"The Netherlands, 5kg",28 Aug 2015,793
+"Belgium, 5kg",21 Aug 2015,625
+"The Netherlands, 5kg",21 Aug 2015,599
+"Belgium, 5kg",14 Aug 2015,625
+"The Netherlands, 5kg",14 Aug 2015,663
+"The Netherlands, 5kg",7 Aug 2015,631
+"Belgium, 5kg",31 Jul 2015,400
+"The Netherlands, 5kg",31 Jul 2015,493
+"United Kingdom, 5/6kg",31 Jul 2015,550
+"The Netherlands, 5kg",24 Jul 2015,500
+"Belgium, 5kg",17 Jul 2015,435
+"The Netherlands, 5kg",17 Jul 2015,460
+"The Netherlands, 5kg",10 Jul 2015,479
+"Belgium, 5kg",3 Jul 2015,463
+"The Netherlands, 5kg",3 Jul 2015,504
+"Belgium, 5kg",26 Jun 2015,465
+"The Netherlands, 5kg",26 Jun 2015,551
+"Belgium, 5kg",19 Jun 2015,530
+"The Netherlands, 5kg",19 Jun 2015,572
+"Turkey, 5kg",19 Jun 2015,350
+"Belgium, 5kg",12 Jun 2015,530
+"The Netherlands, 5kg",12 Jun 2015,525
+"Belgium, 5kg",5 Jun 2015,463
+"The Netherlands, 5kg",5 Jun 2015,495
+"Belgium, 5kg",29 May 2015,300
+"The Netherlands, 5kg",29 May 2015,428
+"Belgium, 5kg",22 May 2015,440
+"The Netherlands, 5kg",22 May 2015,556
+"The Netherlands, 5kg",15 May 2015,565
+"Belgium, 5kg",8 May 2015,370
+"The Netherlands, 5kg",8 May 2015,567
+"Belgium, 5kg",1 May 2015,370
+"The Netherlands, 5kg",1 May 2015,500
+"The Netherlands, 5kg",24 Apr 2015,478
+"Spain, 5kg",17 Apr 2015,395
+"The Netherlands, 5kg",17 Apr 2015,471
+"Spain, 5kg",10 Apr 2015,400
+"The Netherlands, 5kg",10 Apr 2015,492
+"Belgium, 5kg",3 Apr 2015,400
+"Spain, 5kg",3 Apr 2015,488
+"The Netherlands, 5kg",3 Apr 2015,548
+"Belgium, 5kg",27 Mar 2015,488
+"Spain, 5kg",27 Mar 2015,417
+"The Netherlands, 5kg",27 Mar 2015,504
+"Belgium, 5kg",20 Mar 2015,488
+"Spain, 5kg",20 Mar 2015,425
+"The Netherlands, 5kg",20 Mar 2015,504
+"Spain, 5kg",13 Mar 2015,525
+"The Netherlands, 5kg",13 Mar 2015,593
+"Spain, 5kg",6 Mar 2015,500
+"The Netherlands, 5kg",6 Mar 2015,600
+"Spain, 5kg",27 Feb 2015,625
+"The Netherlands, 5kg",27 Feb 2015,650
+"Spain, 5kg",20 Feb 2015,656
+"Israel, 6kg",13 Feb 2015,650
+"Spain, 5kg",13 Feb 2015,710
+"France, 6kg",6 Feb 2015,800
+"Spain, 5kg",6 Feb 2015,925
+"Spain, 5kg",30 Jan 2015,1063
+"Spain, 5kg",23 Jan 2015,1113
+"Spain, 5kg",16 Jan 2015,983
+"Spain, 5kg",9 Jan 2015,800
+"Spain, 5kg",19 Dec 2014,600
+"Spain, 5kg",12 Dec 2014,425
+"Spain, 5kg",5 Dec 2014,517
+"Kenya, 6kg",28 Nov 2014,650
+"Spain, 5kg",28 Nov 2014,567
+"The Netherlands, 5kg",28 Nov 2014,750
+"Spain, 5kg",21 Nov 2014,423
+"United Kingdom, 5/6kg",21 Nov 2014,400
+"Kenya, 6kg",14 Nov 2014,650
+"Spain, 5kg",14 Nov 2014,350
+"The Netherlands, 5kg",14 Nov 2014,750
+"United Kingdom, 5/6kg",14 Nov 2014,400
+"Spain, 5/6kg",7 Nov 2014,350
+"Spain, 5kg",7 Nov 2014,400
+"The Netherlands, 5kg",7 Nov 2014,388
+"United Kingdom, 5/6kg",7 Nov 2014,400
+"Kenya, 6kg",31 Oct 2014,650
+"Spain, 5/6kg",31 Oct 2014,350
+"The Netherlands, 5kg",31 Oct 2014,625
+"United Kingdom, 5/6kg",31 Oct 2014,400
+"Kenya, 6kg",24 Oct 2014,650
+"Spain, 5/6kg",24 Oct 2014,483
+"The Netherlands, 5kg",24 Oct 2014,517
+"United Kingdom, 5/6kg",24 Oct 2014,400
+"Kenya, 6kg",17 Oct 2014,650
+"Spain, 5kg",17 Oct 2014,583
+"The Netherlands, 5kg",17 Oct 2014,579
+"United Kingdom, 5/6kg",17 Oct 2014,400
+"Kenya, 6kg",10 Oct 2014,650
+"Spain, 5/6kg",10 Oct 2014,725
+"Spain, 5kg",10 Oct 2014,650
+"The Netherlands, 5kg",10 Oct 2014,850
+"Kenya, 6kg",3 Oct 2014,650
+"Spain, 5kg",3 Oct 2014,600
+"The Netherlands, 5kg",3 Oct 2014,696
+"United Kingdom, 5/6kg",3 Oct 2014,400
+"Belgium, 5kg",26 Sep 2014,625
+"Kenya, 6kg",26 Sep 2014,650
+"Spain, 5kg",26 Sep 2014,650
+"The Netherlands, 5kg",26 Sep 2014,700
+"Belgium, 5kg",19 Sep 2014,700
+"Kenya, 6kg",19 Sep 2014,650
+"The Netherlands, 5kg",19 Sep 2014,777
+"Kenya, 6kg",12 Sep 2014,650
+"Poland, 5kg",12 Sep 2014,600
+"The Netherlands, 5kg",12 Sep 2014,799
+"Kenya, 6kg",5 Sep 2014,650
+"The Netherlands, 5kg",5 Sep 2014,836
+"United Kingdom, 10kg",5 Sep 2014,800
+"Belgium, 5kg",29 Aug 2014,865
+"Kenya, 6kg",29 Aug 2014,650
+"The Netherlands, 5kg",29 Aug 2014,843
+"United Kingdom, 5/6kg",29 Aug 2014,400
+"Kenya, 6kg",22 Aug 2014,650
+"The Netherlands, 5kg",22 Aug 2014,718
+"United Kingdom, 5/6kg",22 Aug 2014,400
+"Spain, 5kg",15 Aug 2014,500
+"The Netherlands, 5kg",15 Aug 2014,638
+"The Netherlands, 5kg",8 Aug 2014,550
+"Kenya, 6kg",1 Aug 2014,650
+"Spain, 5kg",1 Aug 2014,400
+"The Netherlands, 5kg",1 Aug 2014,640
+"Kenya, 6kg",25 Jul 2014,650
+"The Netherlands, 5kg",25 Jul 2014,640
+"United Kingdom, 5/6kg",25 Jul 2014,400
+"Kenya, 6kg",18 Jul 2014,650
+"The Netherlands, 5kg",18 Jul 2014,624
+"United Kingdom, 5/6kg",18 Jul 2014,400
+"Kenya, 6kg",11 Jul 2014,650
+"The Netherlands, 5kg",11 Jul 2014,532
+"United Kingdom, 5/6kg",11 Jul 2014,400
+"Kenya, 6kg",4 Jul 2014,650
+"The Netherlands, 5kg",4 Jul 2014,542
+"United Kingdom, 5/6kg",4 Jul 2014,400
+"Kenya, 6kg",27 Jun 2014,650
+"The Netherlands, 5kg",27 Jun 2014,675
+"United Kingdom, 5/6kg",27 Jun 2014,400
+"The Netherlands, 5kg",20 Jun 2014,677
+"United Kingdom, 5/6kg",20 Jun 2014,400
+"Spain, 5kg",13 Jun 2014,400
+"The Netherlands, 5kg",13 Jun 2014,672
+"Belgium, 5kg",6 Jun 2014,645
+"Spain, 5kg",6 Jun 2014,425
+"The Netherlands, 5kg",6 Jun 2014,692
+"United Kingdom, 5/6kg",6 Jun 2014,400
+"Belgium, 5kg",30 May 2014,645
+"Spain, 5kg",30 May 2014,350
+"The Netherlands, 5kg",30 May 2014,637
+"United Kingdom, 5/6kg",30 May 2014,400
+"Belgium, 5kg",23 May 2014,750
+"The Netherlands, 5kg",23 May 2014,658
+"United Kingdom, 5/6kg",23 May 2014,400
+"Spain, 5kg",16 May 2014,300
+"The Netherlands, 5kg",16 May 2014,700
+"The Netherlands, 7kg",16 May 2014,705
+"United Kingdom, 5/6kg",16 May 2014,400
+"Spain, 5kg",9 May 2014,300
+"The Netherlands, 5kg",9 May 2014,700
+"United Kingdom, 5/6kg",9 May 2014,400
+"Spain, 5kg",2 May 2014,300
+"The Netherlands, 5kg",2 May 2014,600
+"Spain, 5/6kg",25 Apr 2014,750
+"Spain, 5kg",25 Apr 2014,400
+"The Netherlands, 5kg",25 Apr 2014,450
+"The Netherlands, 7kg",25 Apr 2014,740
+"United Kingdom, 5/6kg",25 Apr 2014,400
+"Spain, 5/6kg",18 Apr 2014,750
+"Spain, 5kg",18 Apr 2014,400
+"The Netherlands, 5kg",18 Apr 2014,700
+"The Netherlands, 7kg",18 Apr 2014,740
+"Spain, 5/6kg",11 Apr 2014,500
+"The Netherlands, 5kg",11 Apr 2014,543
+"Spain, 5/6kg",4 Apr 2014,433
+"The Netherlands, 5kg",4 Apr 2014,518
+"Spain, 5/6kg",28 Mar 2014,467
+"The Netherlands, 5kg",28 Mar 2014,500
+"Spain, 5/6kg",21 Mar 2014,625
+"The Netherlands, 5kg",21 Mar 2014,600
+"Belgium, 5kg",14 Mar 2014,700
+"Spain, 5/6kg",14 Mar 2014,663
+"The Netherlands, 5kg",14 Mar 2014,638
+"Belgium, 4kg",7 Mar 2014,620
+"Spain, 5/6kg",7 Mar 2014,588
+"The Netherlands, 5kg",7 Mar 2014,658
+"Belgium, 5kg",28 Feb 2014,800
+"Spain, 5/6kg",28 Feb 2014,700
+"Spain, 5kg",28 Feb 2014,750
+"Spain, 5/6kg",21 Feb 2014,710
+"Spain, 5/6kg",14 Feb 2014,725
+"Spain, 5/6kg",7 Feb 2014,825
+"Spain, 5/6kg",31 Jan 2014,740
+"Spain, 5/6kg",24 Jan 2014,750
+"Spain, 5/6kg",17 Jan 2014,750
+"Spain, 10kg",10 Jan 2014,880
+"Spain, 5/6kg",10 Jan 2014,782
+"Spain, 10kg",20 Dec 2013,1200
+"Spain, 10kg",13 Dec 2013,1300
+"Spain, 10kg",6 Dec 2013,1100
+"Spain, 5kg",6 Dec 2013,525
+"Belgium, 10kg",29 Nov 2013,1070
+"Spain, 5kg",29 Nov 2013,500
+"Belgium, 5kg",22 Nov 2013,510
+"Spain, 5kg",22 Nov 2013,506
+"Belgium, 5kg",15 Nov 2013,475
+"Spain, 5kg",15 Nov 2013,494
+"Belgium, 5kg",8 Nov 2013,450
+"Spain, 5kg",8 Nov 2013,493
+"Belgium, 5kg",1 Nov 2013,500
+"Spain, 5kg",1 Nov 2013,525
+"The Netherlands, 5kg",1 Nov 2013,565
+"Spain, 5kg",25 Oct 2013,433
+"The Netherlands, 5kg",25 Oct 2013,673
+"Spain, 5kg",18 Oct 2013,483
+"The Netherlands, 5kg",18 Oct 2013,517
+"Spain, 5kg",11 Oct 2013,415
+"The Netherlands, 5kg",11 Oct 2013,587
+"Spain, 5kg",4 Oct 2013,465
+"The Netherlands, 5kg",4 Oct 2013,625
+"Belgium, 5kg",27 Sep 2013,730
+"Spain, 5kg",27 Sep 2013,607
+"The Netherlands, 5kg",27 Sep 2013,805
+"Spain, 5kg",20 Sep 2013,700
+"The Netherlands, 5kg",20 Sep 2013,760
+"Kenya, 6kg",13 Sep 2013,720
+"Peru, 4kg",13 Sep 2013,720
+"The Netherlands, 5kg",13 Sep 2013,685
+"Spain, 5kg",6 Sep 2013,700
+"The Netherlands, 5kg",6 Sep 2013,683
+"The Netherlands, 5kg",30 Aug 2013,855
+"The Netherlands, 5kg",23 Aug 2013,804
+"Belgium, 5kg",16 Aug 2013,750
+"Kenya, 6kg",16 Aug 2013,700
+"The Netherlands, 5kg",16 Aug 2013,725
+"The Netherlands, 5kg",9 Aug 2013,492
+"The Netherlands, 5kg",2 Aug 2013,458
+"The Netherlands, 5kg",26 Jul 2013,500
+"Belgium, 5kg",19 Jul 2013,555
+"The Netherlands, 5kg",19 Jul 2013,628
+"The Netherlands, 5kg",12 Jul 2013,550
+"Spain, 5kg",5 Jul 2013,480
+"The Netherlands, 5kg",5 Jul 2013,633
+"Spain, 5kg",28 Jun 2013,450
+"The Netherlands, 5kg",28 Jun 2013,610
+"Belgium, 5kg",21 Jun 2013,410
+"Spain, 5kg",21 Jun 2013,425
+"The Netherlands, 5kg",21 Jun 2013,534
+"The Netherlands, 5kg",14 Jun 2013,668
+"The Netherlands, 5kg",7 Jun 2013,683
+"Spain, 5kg",31 May 2013,600
+"The Netherlands, 5kg",31 May 2013,903
+"Spain, 5kg",24 May 2013,400
+"The Netherlands, 5kg",24 May 2013,631
+"Spain, 5kg",17 May 2013,400
+"The Netherlands, 5kg",17 May 2013,583
+"Spain, 5kg",10 May 2013,525
+"The Netherlands, 5kg",10 May 2013,713
+"United Kingdom, 5/6kg",10 May 2013,700
+"Spain, 5kg",3 May 2013,592
+"The Netherlands, 5kg",3 May 2013,700
+"Spain, 5kg",26 Apr 2013,685
+"The Netherlands, 5kg",26 Apr 2013,817
+"Spain, 5kg",19 Apr 2013,650
+"The Netherlands, 5kg",19 Apr 2013,813
+"Spain, 5kg",12 Apr 2013,483
+"The Netherlands, 5kg",12 Apr 2013,577
+"Spain, 5kg",5 Apr 2013,458
+"The Netherlands, 5kg",5 Apr 2013,617
+"Spain, 5kg",29 Mar 2013,433
+"The Netherlands, 5kg",29 Mar 2013,658
+"Spain, 5kg",22 Mar 2013,711
+"The Netherlands, 5kg",22 Mar 2013,881
+"Spain, 5kg",15 Mar 2013,945
+"The Netherlands, 5kg",15 Mar 2013,1200
+"Spain, 5kg",8 Mar 2013,950
+"The Netherlands, 5kg",8 Mar 2013,1400
+"Spain, 5kg",1 Mar 2013,1013
+"The Netherlands, 5kg",1 Mar 2013,1300
+"Spain, 5kg",22 Feb 2013,1113
+"Spain, 5kg",15 Feb 2013,1075
+"Spain, 5kg",8 Feb 2013,1013
+"Spain, 5kg",1 Feb 2013,1008
+"Spain, 5kg",25 Jan 2013,1019
+"The Netherlands, 5kg",25 Jan 2013,1050
+"Spain, 5kg",18 Jan 2013,1283
+"The Netherlands, 5kg",18 Jan 2013,1280
+"Spain, 5kg",11 Jan 2013,1225
+"The Netherlands, 5kg",11 Jan 2013,1375
+"Spain, 5kg",21 Dec 2012,1271
+"Spain, 5kg",14 Dec 2012,1327
+"Spain, 5kg",7 Dec 2012,693
+"Spain, 5kg",30 Nov 2012,656
+"Spain, 5kg",23 Nov 2012,638
+"The Netherlands, 5kg",23 Nov 2012,750
+"Spain, 5kg",16 Nov 2012,501
+"Spain, 5kg",9 Nov 2012,467
+"Spain, 5kg",2 Nov 2012,425
+"Spain, 5kg",26 Oct 2012,450
+"The Netherlands, 5kg",26 Oct 2012,600
+"Spain, 5/6kg",19 Oct 2012,550
+"Spain, 5kg",19 Oct 2012,475
+"The Netherlands, 5kg",19 Oct 2012,528
+"Spain, 5/6kg",12 Oct 2012,600
+"Spain, 5kg",12 Oct 2012,527
+"The Netherlands, 5kg",12 Oct 2012,658
+"Spain, 5/6kg",5 Oct 2012,625
+"Spain, 5kg",5 Oct 2012,600
+"The Netherlands, 5kg",5 Oct 2012,812
+"Spain, 5/6kg",28 Sep 2012,670
+"The Netherlands, 5kg",28 Sep 2012,752
+"Spain, 5/6kg",21 Sep 2012,638
+"The Netherlands, 5kg",21 Sep 2012,738
+"The Netherlands, 5kg",14 Sep 2012,679
+"The Netherlands, 5kg",7 Sep 2012,763
+"Belgium, 5kg",31 Aug 2012,690
+"The Netherlands, 5kg",31 Aug 2012,683
+"The Netherlands, 5kg",24 Aug 2012,539
+"Spain, 5/6kg",17 Aug 2012,450
+"The Netherlands, 5kg",17 Aug 2012,560
+"The Netherlands, 5kg",10 Aug 2012,665
+"Belgium, 5kg",3 Aug 2012,675
+"The Netherlands, 5kg",3 Aug 2012,673
+"Belgium, 5kg",27 Jul 2012,675
+"Spain, 5/6kg",27 Jul 2012,300
+"The Netherlands, 5kg",27 Jul 2012,650
+"The Netherlands, 5kg",20 Jul 2012,480
+"The Netherlands, 5kg",13 Jul 2012,388
+"The Netherlands, 5kg",6 Jul 2012,434
+"The Netherlands, 5kg",29 Jun 2012,500
+"Spain, 5/6kg",22 Jun 2012,400
+"The Netherlands, 5kg",22 Jun 2012,534
+"Spain, 5/6kg",15 Jun 2012,438
+"The Netherlands, 5kg",15 Jun 2012,675
+"United Kingdom, 5/6kg",15 Jun 2012,580
+"Belgium, 5kg",8 Jun 2012,430
+"Spain, 5/6kg",8 Jun 2012,450
+"The Netherlands, 5kg",8 Jun 2012,566
+"Belgium, 5kg",1 Jun 2012,430
+"The Netherlands, 5kg",1 Jun 2012,446
+"Belgium, 5kg",25 May 2012,465
+"Spain, 5/6kg",25 May 2012,425
+"The Netherlands, 5kg",25 May 2012,549
+"Belgium, 5kg",18 May 2012,700
+"Spain, 5kg",18 May 2012,490
+"The Netherlands, 5kg",18 May 2012,678
+"Spain, 5kg",11 May 2012,450
+"The Netherlands, 5kg",11 May 2012,675
+"Spain, 5kg",4 May 2012,450
+"The Netherlands, 5kg",4 May 2012,630
+"Belgium, 5kg",27 Apr 2012,550
+"Spain, 5kg",27 Apr 2012,460
+"The Netherlands, 5kg",27 Apr 2012,542
+"Spain, 5kg",20 Apr 2012,402
+"The Netherlands, 5kg",20 Apr 2012,537
+"Belgium, 5kg",13 Apr 2012,490
+"Spain, 5kg",13 Apr 2012,385
+"The Netherlands, 5kg",13 Apr 2012,538
+"Spain, 5kg",6 Apr 2012,417
+"The Netherlands, 5kg",6 Apr 2012,610
+"Spain, 5kg",30 Mar 2012,425
+"The Netherlands, 5kg",30 Mar 2012,638
+"Spain, 5kg",23 Mar 2012,420
+"The Netherlands, 5kg",23 Mar 2012,563
+"Spain, 5kg",16 Mar 2012,417
+"Spain, 5kg",9 Mar 2012,548
+"The Netherlands, 5kg",9 Mar 2012,835
+"Spain, 5kg",2 Mar 2012,646
+"The Netherlands, 5kg",2 Mar 2012,850
+"Spain, 5kg",24 Feb 2012,750
+"Spain, 5kg",17 Feb 2012,716
+"The Netherlands, 5kg",17 Feb 2012,800
+"Spain, 5kg",10 Feb 2012,853
+"Spain, 5kg",3 Feb 2012,969
+"Spain, 5kg",27 Jan 2012,850
+"Spain, 5kg",20 Jan 2012,778
+"Spain, 5kg",13 Jan 2012,698
+"Spain, 5kg",6 Jan 2012,685
+"Spain, 5kg",16 Dec 2011,794
+"The Netherlands, 5kg",16 Dec 2011,1050
+"Spain, 5kg",9 Dec 2011,701
+"Spain, 5kg",2 Dec 2011,529
+"The Netherlands, 5kg",2 Dec 2011,675
+"Spain, 5kg",25 Nov 2011,524
+"The Netherlands, 5kg",25 Nov 2011,675
+"Spain, 5kg",18 Nov 2011,558
+"The Netherlands, 5kg",18 Nov 2011,625
+"Spain, 5kg",11 Nov 2011,498
+"The Netherlands, 5kg",11 Nov 2011,660
+"Spain, 5kg",4 Nov 2011,442
+"The Netherlands, 5kg",4 Nov 2011,518
+"Spain, 5kg",28 Oct 2011,438
+"The Netherlands, 5kg",28 Oct 2011,557
+"Spain, 5kg",21 Oct 2011,450
+"The Netherlands, 5kg",21 Oct 2011,515
+"Spain, 5kg",14 Oct 2011,425
+"The Netherlands, 5kg",14 Oct 2011,607
+"Turkey, 5kg",14 Oct 2011,400
+"Spain, 5kg",7 Oct 2011,438
+"The Netherlands, 5kg",7 Oct 2011,561
+"Italy, 6kg",30 Sep 2011,710
+"Spain, 5kg",30 Sep 2011,566
+"The Netherlands, 5kg",30 Sep 2011,695
+"Spain, 5kg",23 Sep 2011,750
+"The Netherlands, 5kg",23 Sep 2011,1005
+"Belgium, 5kg",16 Sep 2011,1000
+"Spain, 5kg",16 Sep 2011,775
+"The Netherlands, 5kg",16 Sep 2011,1063
+"Spain, 5kg",9 Sep 2011,825
+"The Netherlands, 5kg",9 Sep 2011,1080
+"Spain, 5kg",2 Sep 2011,750
+"The Netherlands, 5kg",2 Sep 2011,897
+"The Netherlands, 5kg",26 Aug 2011,850
+"Belgium, 5kg",19 Aug 2011,625
+"The Netherlands, 5kg",19 Aug 2011,691
+"Spain, 5kg",12 Aug 2011,700
+"The Netherlands, 5kg",12 Aug 2011,663
+"The Netherlands, 5kg",5 Aug 2011,695
+"Spain, 5kg",29 Jul 2011,880
+"The Netherlands, 5kg",29 Jul 2011,893
+"Belgium, 5kg",22 Jul 2011,700
+"The Netherlands, 5kg",22 Jul 2011,740
+"The Netherlands, 5kg",15 Jul 2011,628
+"The Netherlands, 5kg",8 Jul 2011,520
+"The Netherlands, 5kg",1 Jul 2011,589
+"Belgium, 5kg",24 Jun 2011,525
+"The Netherlands, 5kg",24 Jun 2011,563
+"Spain, 5kg",17 Jun 2011,480
+"The Netherlands, 5kg",17 Jun 2011,516
+"Spain, 5kg",10 Jun 2011,282
+"The Netherlands, 5kg",10 Jun 2011,544
+"Spain, 5kg",3 Jun 2011,463
+"The Netherlands, 5kg",3 Jun 2011,634
+"Spain, 5kg",27 May 2011,467
+"The Netherlands, 5kg",27 May 2011,759
+"Spain, 5kg",20 May 2011,375
+"The Netherlands, 5kg",20 May 2011,695
+"Belgium, 5kg",13 May 2011,550
+"Spain, 5kg",13 May 2011,475
+"The Netherlands, 5kg",13 May 2011,669
+"Spain, 5kg",6 May 2011,380
+"The Netherlands, 5kg",6 May 2011,560
+"Belgium, 5kg",29 Apr 2011,420
+"Spain, 5kg",29 Apr 2011,350
+"The Netherlands, 5kg",29 Apr 2011,571
+"Spain, 5kg",22 Apr 2011,493
+"The Netherlands, 5kg",22 Apr 2011,645
+"Spain, 5kg",15 Apr 2011,408
+"The Netherlands, 5kg",15 Apr 2011,585
+"Spain, 5kg",8 Apr 2011,450
+"The Netherlands, 5kg",8 Apr 2011,599
+"United Kingdom, 5/6kg",8 Apr 2011,500
+"Belgium, 5kg",1 Apr 2011,625
+"Spain, 5kg",1 Apr 2011,475
+"The Netherlands, 5kg",1 Apr 2011,777
+"Spain, 5kg",25 Mar 2011,629
+"The Netherlands, 5kg",25 Mar 2011,837
+"Italy, 4.5kg",18 Mar 2011,1050
+"Spain, 5kg",18 Mar 2011,644
+"The Netherlands, 5kg",18 Mar 2011,803
+"Spain, 5kg",11 Mar 2011,691
+"The Netherlands, 5kg",11 Mar 2011,1023
+"Spain, 5kg",4 Mar 2011,780
+"The Netherlands, 5kg",4 Mar 2011,1025
+"Italy, 6kg",25 Feb 2011,1200
+"Spain, 5kg",25 Feb 2011,1100
+"The Netherlands, 5kg",25 Feb 2011,1250
+"Spain, 5kg",18 Feb 2011,1383
+"Spain, 5kg",11 Feb 2011,1588
+"Spain, 5kg",4 Feb 2011,1400
+"Spain, 5kg",28 Jan 2011,820
+"Spain, 5kg",21 Jan 2011,671
+"Canary Islands, 5kg",14 Jan 2011,700
+"Spain, 5kg",14 Jan 2011,700
+"Spain, 5kg",7 Jan 2011,638
+"Spain, 5kg",17 Dec 2010,810
+"Spain, 5kg",10 Dec 2010,675
+"Spain, 5kg",3 Dec 2010,508
+"Spain, 5kg",26 Nov 2010,531
+"Spain, 5kg",19 Nov 2010,550
+"The Netherlands, 5kg",19 Nov 2010,600
+"Spain, 5kg",12 Nov 2010,540
+"The Netherlands, 5kg",12 Nov 2010,575
+"Spain, 5kg",5 Nov 2010,375
+"The Netherlands, 5kg",5 Nov 2010,488
+"Spain, 5kg",29 Oct 2010,414
+"The Netherlands, 5kg",29 Oct 2010,524
+"Spain, 5kg",22 Oct 2010,425
+"The Netherlands, 5kg",22 Oct 2010,570
+"Spain, 5kg",15 Oct 2010,456
+"The Netherlands, 5kg",15 Oct 2010,581
+"Spain, 5kg",8 Oct 2010,613
+"The Netherlands, 5kg",8 Oct 2010,655
+"Spain, 5kg",1 Oct 2010,693
+"The Netherlands, 5kg",1 Oct 2010,873
+"Belgium, 5kg",24 Sep 2010,765
+"Spain, 5kg",24 Sep 2010,638
+"The Netherlands, 5kg",24 Sep 2010,765
+"Turkey, 4kg",24 Sep 2010,500
+"Spain, 5kg",17 Sep 2010,650
+"The Netherlands, 5kg",17 Sep 2010,918
+"Spain, 5kg",10 Sep 2010,600
+"The Netherlands, 5kg",10 Sep 2010,869
+"The Netherlands, 5kg",3 Sep 2010,741
+"Canary Islands, 5kg",27 Aug 2010,760
+"Spain, 5kg",27 Aug 2010,550
+"The Netherlands, 5kg",27 Aug 2010,817
+"The Netherlands, 5kg",20 Aug 2010,783
+"The Netherlands, 5kg",13 Aug 2010,583
+"The Netherlands, 5kg",6 Aug 2010,555
+"The Netherlands, 5kg",30 Jul 2010,458
+"United Kingdom, 5/6kg",30 Jul 2010,400
+"Belgium, 5kg",23 Jul 2010,375
+"The Netherlands, 5kg",23 Jul 2010,426
+"United Kingdom, 5/6kg",23 Jul 2010,400
+"Belgium, 5kg",16 Jul 2010,430
+"The Netherlands, 5kg",16 Jul 2010,448
+"Belgium, 5kg",9 Jul 2010,425
+"The Netherlands, 5kg",9 Jul 2010,541
+"Belgium, 5kg",2 Jul 2010,530
+"The Netherlands, 5kg",2 Jul 2010,622
+"Belgium, 5kg",25 Jun 2010,670
+"The Netherlands, 5kg",25 Jun 2010,708
+"Belgium, 5kg",18 Jun 2010,538
+"Spain, 5kg",18 Jun 2010,503
+"The Netherlands, 5kg",18 Jun 2010,648
+"Spain, 5kg",11 Jun 2010,425
+"The Netherlands, 5kg",11 Jun 2010,757
+"Spain, 5kg",4 Jun 2010,553
+"The Netherlands, 5kg",4 Jun 2010,840
+"Spain, 5kg",28 May 2010,575
+"The Netherlands, 5kg",28 May 2010,814
+"The Netherlands, 5kg",21 May 2010,779
+"Belgium, 5kg",14 May 2010,660
+"Spain, 5kg",14 May 2010,440
+"The Netherlands, 5kg",14 May 2010,654
+"The Netherlands, 5kg",7 May 2010,695
+"Spain, 5kg",30 Apr 2010,425
+"The Netherlands, 5kg",30 Apr 2010,633
+"Spain, 5kg",23 Apr 2010,625
+"The Netherlands, 5kg",23 Apr 2010,666
+"Spain, 5kg",16 Apr 2010,538
+"The Netherlands, 5kg",16 Apr 2010,733
+"Spain, 5kg",9 Apr 2010,675
+"The Netherlands, 5kg",9 Apr 2010,890
+"Spain, 5kg",2 Apr 2010,965
+"The Netherlands, 5kg",2 Apr 2010,1353
+"Spain, 5kg",26 Mar 2010,475
+"The Netherlands, 5kg",26 Mar 2010,865
+"Spain, 5kg",19 Mar 2010,675
+"The Netherlands, 5kg",19 Mar 2010,700
+"Spain, 5kg",12 Mar 2010,1055
+"The Netherlands, 5kg",12 Mar 2010,1190
+"Spain, 5kg",5 Mar 2010,1388
+"The Netherlands, 5kg",5 Mar 2010,1800
+"Spain, 5kg",26 Feb 2010,1369
+"The Netherlands, 5kg",26 Feb 2010,1465
+"Spain, 5kg",19 Feb 2010,1320
+"The Netherlands, 5kg",19 Feb 2010,1450
+"Spain, 5kg",12 Feb 2010,1195
+"The Netherlands, 5kg",12 Feb 2010,1400
+"Spain, 5kg",5 Feb 2010,1050
+"Spain, 5kg",29 Jan 2010,1070
+"Spain, 5kg",22 Jan 2010,985
+"Spain, 5kg",15 Jan 2010,912
+"Spain, 5kg",8 Jan 2010,947
+"Spain, 5kg",18 Dec 2009,1030
+"Spain, 5kg",11 Dec 2009,785
+"Spain, 5kg",4 Dec 2009,562
+"Spain, 5/6kg",27 Nov 2009,488
+"Spain, 5kg",27 Nov 2009,513
+"Spain, 5/6kg",20 Nov 2009,500
+"Spain, 5kg",20 Nov 2009,533
+"The Netherlands, 5kg",20 Nov 2009,500
+"Spain, 5/6kg",13 Nov 2009,600
+"Spain, 5kg",13 Nov 2009,517
+"The Netherlands, 5kg",13 Nov 2009,527
+"Canary Islands, 5kg",6 Nov 2009,420
+"Spain, 5kg",6 Nov 2009,433
+"The Netherlands, 5kg",6 Nov 2009,478
+"Spain, 5kg",30 Oct 2009,375
+"The Netherlands, 5kg",30 Oct 2009,501
+"Peru, 4kg",23 Oct 2009,600
+"Spain, 5/6kg",23 Oct 2009,550
+"Spain, 5kg",23 Oct 2009,425
+"The Netherlands, 5kg",23 Oct 2009,531
+"Spain, 5/6kg",16 Oct 2009,483
+"Spain, 5kg",16 Oct 2009,550
+"The Netherlands, 5kg",16 Oct 2009,678
+"Spain, 5kg",9 Oct 2009,558
+"The Netherlands, 5kg",9 Oct 2009,672
+"Spain, 5kg",2 Oct 2009,500
+"The Netherlands, 5kg",2 Oct 2009,614
+"Belgium, 5kg",25 Sep 2009,605
+"Spain, 5kg",25 Sep 2009,500
+"The Netherlands, 5kg",25 Sep 2009,652
+"Spain, 5kg",18 Sep 2009,600
+"The Netherlands, 5kg",18 Sep 2009,728
+"Italy, 6kg",11 Sep 2009,725
+"The Netherlands, 5kg",11 Sep 2009,649
+"The Netherlands, 5kg",4 Sep 2009,609
+"The Netherlands, 5kg",28 Aug 2009,728
+"The Netherlands, 5kg",21 Aug 2009,548
+"The Netherlands, 5kg",14 Aug 2009,468
+"Belgium, 5kg",7 Aug 2009,408
+"The Netherlands, 5kg",7 Aug 2009,447
+"Belgium, 5kg",31 Jul 2009,385
+"The Netherlands, 5kg",31 Jul 2009,465
+"The Netherlands, 5kg",24 Jul 2009,458
+"Spain, 5/6kg",17 Jul 2009,450
+"The Netherlands, 5kg",17 Jul 2009,485
+"Belgium, 5kg",10 Jul 2009,375
+"The Netherlands, 5kg",10 Jul 2009,414
+"Belgium, 5kg",3 Jul 2009,457
+"The Netherlands, 5kg",3 Jul 2009,532
+"Belgium, 5kg",26 Jun 2009,685
+"The Netherlands, 5kg",26 Jun 2009,596
+"The Netherlands, 5kg",19 Jun 2009,630
+"The Netherlands, 5kg",12 Jun 2009,646
+"Spain, 5/6kg",5 Jun 2009,420
+"The Netherlands, 5kg",5 Jun 2009,633
+"The Netherlands, 5kg",29 May 2009,656
+"The Netherlands, 5kg",22 May 2009,633
+"The Netherlands, 5kg",15 May 2009,621
+"Belgium, 5kg",8 May 2009,500
+"Spain, 5/6kg",8 May 2009,500
+"The Netherlands, 5kg",8 May 2009,555
+"Spain, 5/6kg",1 May 2009,400
+"Spain, 5kg",1 May 2009,420
+"Spain, 7kg",1 May 2009,700
+"The Netherlands, 5kg",1 May 2009,610
+"Belgium, 5kg",24 Apr 2009,625
+"Spain, 5kg",24 Apr 2009,513
+"The Netherlands, 5kg",24 Apr 2009,675
+"Spain, 5kg",17 Apr 2009,468
+"The Netherlands, 5kg",17 Apr 2009,661
+"Spain, 5kg",10 Apr 2009,650
+"The Netherlands, 5kg",10 Apr 2009,666
+"Spain, 5kg",3 Apr 2009,405
+"The Netherlands, 5kg",3 Apr 2009,624
+"Spain, 5kg",27 Mar 2009,650
+"The Netherlands, 5kg",27 Mar 2009,803
+"Spain, 5kg",20 Mar 2009,828
+"The Netherlands, 5kg",20 Mar 2009,1028
+"Spain, 5kg",13 Mar 2009,975
+"The Netherlands, 5kg",13 Mar 2009,1076
+"Spain, 5kg",6 Mar 2009,702
+"The Netherlands, 5kg",6 Mar 2009,830
+"Canary Islands, 5kg",27 Feb 2009,850
+"Spain, 5kg",27 Feb 2009,730
+"The Netherlands, 5kg",27 Feb 2009,800
+"Morocco, 5kg",20 Feb 2009,1050
+"Spain, 5kg",20 Feb 2009,885
+"The Netherlands, 5kg",20 Feb 2009,1000
+"Morocco, 5kg",13 Feb 2009,1150
+"Spain, 5kg",13 Feb 2009,1038
+"The Netherlands, 5kg",13 Feb 2009,1145
+"Spain, 5kg",6 Feb 2009,1150
+"The Netherlands, 5kg",6 Feb 2009,1350
+"Spain, 5kg",30 Jan 2009,1529
+"Spain, 5kg",23 Jan 2009,1148
+"Spain, 5kg",16 Jan 2009,1063
+"Spain, 5kg",9 Jan 2009,1065
+"Spain, 5kg",19 Dec 2008,1185
+"Spain, 5kg",12 Dec 2008,993
+"Spain, 5kg",5 Dec 2008,831
+"Spain, 5kg",28 Nov 2008,867
+"The Netherlands, 5kg",28 Nov 2008,980
+"Spain, 5kg",21 Nov 2008,873
+"The Netherlands, 5kg",21 Nov 2008,925
+"Spain, 5kg",14 Nov 2008,550
+"The Netherlands, 5kg",14 Nov 2008,701
+"Spain, 5/6kg",7 Nov 2008,450
+"Spain, 5kg",7 Nov 2008,463
+"The Netherlands, 5kg",7 Nov 2008,489
+"Spain, 5kg",31 Oct 2008,420
+"The Netherlands, 5kg",31 Oct 2008,473
+"Spain, 5kg",24 Oct 2008,450
+"The Netherlands, 5kg",24 Oct 2008,584
+"Spain, 5kg",17 Oct 2008,586
+"The Netherlands, 5kg",17 Oct 2008,678
+"Spain, 5kg",10 Oct 2008,512
+"The Netherlands, 5kg",10 Oct 2008,626
+"Spain, 5kg",3 Oct 2008,570
+"The Netherlands, 5kg",3 Oct 2008,693
+"Spain, 5kg",26 Sep 2008,620
+"The Netherlands, 5kg",26 Sep 2008,770
+"The Netherlands, 5kg",19 Sep 2008,667
+"Belgium, 5kg",12 Sep 2008,1050
+"France, 6kg",12 Sep 2008,800
+"The Netherlands, 5kg",12 Sep 2008,1050
+"The Netherlands, 5kg",5 Sep 2008,713
+"Belgium, 5kg",29 Aug 2008,575
+"The Netherlands, 5kg",29 Aug 2008,642
+"The Netherlands, 5kg",22 Aug 2008,473
+"The Netherlands, 5kg",15 Aug 2008,370
+"The Netherlands, 5kg",8 Aug 2008,439
+"The Netherlands, 5kg",1 Aug 2008,525
+"Belgium, 5kg",25 Jul 2008,475
+"The Netherlands, 5kg",25 Jul 2008,500
+"The Netherlands, 5kg",18 Jul 2008,475
+"The Netherlands, 5kg",11 Jul 2008,494
+"Spain, 5kg",4 Jul 2008,400
+"The Netherlands, 5kg",4 Jul 2008,500
+"The Netherlands, 5kg",27 Jun 2008,745
+"The Netherlands, 5kg",20 Jun 2008,900
+"The Netherlands, 5kg",13 Jun 2008,858
+"Spain, 5kg",6 Jun 2008,400
+"The Netherlands, 5kg",6 Jun 2008,633
+"The Netherlands, 5kg",30 May 2008,603
+"Spain, 5/6kg",23 May 2008,363
+"The Netherlands, 5kg",23 May 2008,527
+"Spain, 5/6kg",16 May 2008,388
+"The Netherlands, 5kg",16 May 2008,542
+"Spain, 5/6kg",9 May 2008,388
+"The Netherlands, 5kg",9 May 2008,613
+"Spain, 5/6kg",2 May 2008,420
+"The Netherlands, 5kg",2 May 2008,730
+"Spain, 5/6kg",25 Apr 2008,450
+"The Netherlands, 5kg",25 Apr 2008,690
